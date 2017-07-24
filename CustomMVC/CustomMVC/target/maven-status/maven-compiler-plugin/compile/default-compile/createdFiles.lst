@@ -1,0 +1,4 @@
+com\Roit\WebApp\DAO\impl\UserDAOimpl.class
+com\Roit\WebApp\Entity\User.class
+com\Roit\WebApp\Servlet\DefaultServlet.class
+com\Roit\WebApp\DAO\UserDAO.class
